@@ -1,0 +1,19 @@
+.nav-logo {
+    margin: auto;
+    margin-right: 12px;
+    padding: 8px;
+    height: 8%;
+    width: 8%;
+    animation: rotate 10s infinite linear;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+
+}

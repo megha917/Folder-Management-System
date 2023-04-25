@@ -1,0 +1,19 @@
+.hover-folder {
+  background-color: whitesmoke;
+}
+
+.hover-folder:hover {
+  background-color: lightcyan;
+  box-shadow: 0px 0px 10px 5px grey;
+}
+
+.folder-text-style {
+  text-align: center;
+  line-height: 1.8;
+  font-weight: bold;
+
+}
+
+.folder-text-style:hover {
+  text-shadow: 2px 2px Silver;
+}
